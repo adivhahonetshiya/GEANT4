@@ -44,6 +44,11 @@
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
 
+//G4double Xo = 5.*MeV;
+//G4double  FWHM = 0.5*MeV;
+//G4double X = 15.*MeV;
+//G4double exFWHM =pow(;
+
 B1PrimaryGeneratorAction::B1PrimaryGeneratorAction()
 //: G4VUserPrimaryGeneratorAction()   
 {
