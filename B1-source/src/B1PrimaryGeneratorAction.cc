@@ -39,7 +39,8 @@
 #include "G4ChargedGeantino.hh"
 #include "G4SystemOfUnits.hh"
 #include "Randomize.hh"
-#include "G4GeneralParticleSource.hh" 
+#include "G4GeneralParticleSource.hh"
+#include <cmath> 
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
 
